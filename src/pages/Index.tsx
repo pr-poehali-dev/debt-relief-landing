@@ -1,7 +1,7 @@
 import Icon from "@/components/ui/icon";
 
 const HERO_IMAGE =
-  "https://cdn.poehali.dev/projects/5b13f599-3cf9-4a30-9cd6-c31975191a30/files/d11ed65d-ecf4-4684-8220-b98672336534.jpg";
+  "https://cdn.poehali.dev/projects/5b13f599-3cf9-4a30-9cd6-c31975191a30/files/90187f73-4aa7-4170-b385-25524f5ca83a.jpg";
 
 const timelineSteps = [
   {
