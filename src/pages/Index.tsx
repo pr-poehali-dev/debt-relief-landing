@@ -88,12 +88,9 @@ const Index = () => {
               ситуацию без внимания. Мы готовы предложить индивидуальные условия,
               чтобы помочь вернуться к финансовой стабильности.
             </p>
-            <div className="bg-[#1e2d5a] text-white rounded-sm px-6 py-4 inline-flex flex-col gap-1">
-              <span className="font-oswald font-semibold text-lg uppercase tracking-wide">
+            <div className="bg-[#f04155] text-white rounded-lg px-8 py-4 inline-flex items-center justify-center cursor-pointer hover:bg-[#d8394c] transition-colors">
+              <span className="font-oswald font-semibold text-lg uppercase tracking-widest">
                 Мы работаем круглосуточно
-              </span>
-              <span className="text-blue-300 text-sm">
-                Свяжитесь удобным способом — мы поможем
               </span>
             </div>
           </div>
