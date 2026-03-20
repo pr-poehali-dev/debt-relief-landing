@@ -90,7 +90,7 @@ const Index = () => {
             </p>
             <div className="bg-[#f04155] text-white rounded-lg px-8 py-4 inline-flex items-center justify-center cursor-pointer hover:bg-[#d8394c] transition-colors">
               <span className="font-oswald font-semibold text-lg uppercase tracking-widest">
-                Мы работаем круглосуточно
+                Мы всегда на связи
               </span>
             </div>
           </div>
