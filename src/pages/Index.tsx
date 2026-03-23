@@ -111,9 +111,7 @@ const Index = () => {
           <h2 className="font-oswald font-semibold text-3xl text-[#2c3e6b] mb-2">
             Что происходит при просрочке?
           </h2>
-          <p className="text-gray-500 mb-10 text-base">
-            Разберитесь в ситуации на каждом этапе — мы всегда готовы помочь найти решение
-          </p>
+
 
           {/* Progress bar */}
           <div className="hidden md:flex items-center mb-10 relative">
