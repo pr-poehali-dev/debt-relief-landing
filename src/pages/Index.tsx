@@ -257,14 +257,7 @@ const Index = () => {
               <p className="text-blue-200 text-sm leading-relaxed mb-5">
                 Если у вас появилась просроченная задолженность — не игнорируйте её. Обратитесь к нам самостоятельно. Чем раньше, тем больше вариантов решения мы сможем предложить.
               </p>
-              <div className="border-t border-white/10 pt-5">
-                <div className="font-oswald text-white text-base font-semibold mb-1">
-                  Режим работы
-                </div>
-                <div className="text-blue-200 text-sm">
-                  Круглосуточно, без выходных
-                </div>
-              </div>
+
             </div>
           </div>
         </div>
