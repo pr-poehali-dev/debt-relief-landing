@@ -244,6 +244,20 @@ const Index = () => {
                     </div>
                   </div>
                 </div>
+
+                <div className="flex items-center gap-4 bg-white/10 rounded-sm px-6 py-4">
+                  <div className="w-11 h-11 bg-white/20 rounded-sm flex items-center justify-center flex-shrink-0">
+                    <Icon name="Smartphone" size={20} className="text-white" />
+                  </div>
+                  <div>
+                    <div className="font-oswald font-semibold text-lg text-white">
+                      Бот в приложении MAX
+                    </div>
+                    <div className="text-blue-300 text-xs mt-0.5">
+                      Получение информации о транзакциях по своим банковским счетам
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
 
